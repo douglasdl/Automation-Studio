@@ -39,3 +39,15 @@ ou
 <img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
 <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
 ![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
+
+### Listas não ordenadas
+- Cadastro de conta com Google
+    - Captura de avatar a partir do login ou registro com google
+
+### Usando um task list, marcando tarefa como completada ou não  
+
+- [X] Cadastro de conta com Google
+- [ ] Cadastro de conta com Google
+
+### Lista ordenada
+1. Listagem ordenada 
