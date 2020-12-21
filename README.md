@@ -12,7 +12,6 @@ EventBindingSet
 </pre>
 <br>
 
-<br>
 EventBindingSet
 <pre>
   <code>
@@ -21,5 +20,3 @@ EventBindingSet
     &lt;/Bindings&gt;
   </code>
 </pre>
-<br>
-
