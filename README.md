@@ -20,8 +20,9 @@ EventBindingSet
 </pre>
 
 EventBindingSet
-<code><pre>
-  &lt;Bindings&gt;
-    &lt;EventBinding&gt;&lt;/EventBinding&gt;
-  &lt;/Bindings&gt;</pre>
-</code>
+<pre><code>
+  <EventBinding>
+    <Source />
+    <EventHandler></EventHandler>
+  </EventBinding>
+</pre>
