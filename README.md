@@ -24,4 +24,4 @@ EventBindingSet
   &lt;Bindings&gt;
     &lt;EventBinding&gt;&lt;/EventBinding&gt;
   &lt;/Bindings&gt;</pre>
-</code
+</code>
