@@ -79,3 +79,10 @@ ou
 |name|email|present|receiveCertificate|course|
 | -------- | -------- | -------- |-------- | -------- |
 |Chaiana Hermes|chaiana_hermes@yahoo.com.br|true|false|Bootcamp React|
+
+
+/*Para projetos com React*/
+$ npm test
+
+/*Para projetos com Rails*/
+$ rspec
