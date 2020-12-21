@@ -1,7 +1,7 @@
 # Automation-Studio
 
 ## EventBindings
-
+<br>
 EventBindingSet
 <pre>
   <code>
@@ -10,18 +10,16 @@ EventBindingSet
     &lt;/EventBindingSet&gt;
   </code>
 </pre>
+<br>
 
+<br>
 EventBindingSet
-<code>
-  <pre>
-    &lt;EventBindingSet&gt;
-        &lt;Bindings&gt;&lt;/Bindings&gt;
-    &lt;/EventBindingSet&gt;
-  </pre>
-</code>
+<pre>
+  <code>
+    &lt;Bindings&gt;
+      &lt;EventBinding&gt;&lt;/EventBinding&gt;
+    &lt;/Bindings&gt;
+  </code>
+</pre>
+<br>
 
-<br>
-<br>
-<code>
-  teste
-</code>
