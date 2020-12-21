@@ -59,3 +59,7 @@ ou
 :trophy: Check-list de participantes, permitindo selecionar quem irá receber os certificados 
 
 :trophy: Permite que o organizador do evento escreva sua assinatura digital dentro da plataforma
+
+> Status do Projeto: Concluido :heavy_check_mark:
+
+> Status do Projeto: Em desenvolvimento :warning:
