@@ -13,10 +13,8 @@ EventBindingSet
 <br>
 
 EventBindingSet
-<pre>
-  <code>
-    &lt;Bindings&gt;
-      &lt;EventBinding&gt;&lt;/EventBinding&gt;
-    &lt;/Bindings&gt;
-  </code>
+<pre><code>
+  &lt;Bindings&gt;
+    &lt;EventBinding&gt;&lt;/EventBinding&gt;
+  &lt;/Bindings&gt;</code>
 </pre>
