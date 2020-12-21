@@ -74,3 +74,8 @@ ou
 ## Linguagens e libs utilizadas :books:
 
 - [React PDF](https://react-pdf.org/): versão xx.xxx 
+
+### Participante: 
+|name|email|present|receiveCertificate|course|
+| -------- | -------- | -------- |-------- | -------- |
+|Chaiana Hermes|chaiana_hermes@yahoo.com.br|true|false|Bootcamp React|
