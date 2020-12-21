@@ -5,17 +5,17 @@
 EventBindingSet
 <pre>
   <code>
-    <EventBindingSet>
-        <Bindings></Bindings>
-    </EventBindingSet>
+    &lt;EventBindingSet&gt;
+        &lt;Bindings&gt;&lt;/Bindings&gt;
+    &lt;/EventBindingSet&gt;
   </code>
 </pre>
 
 EventBindingSet
 <code>
   <pre>
-    <EventBindingSet>
-        <Bindings></Bindings>
-    </EventBindingSet>
+    &lt;EventBindingSet&gt;
+        &lt;Bindings&gt;&lt;/Bindings&gt;
+    &lt;/EventBindingSet&gt;
   </pre>
 </code>
