@@ -70,3 +70,7 @@ ou
 /* Aqui estamos usando a tag Quotes do markdown*/
 
 > https://certificates-for-everyone-womakerscode.netlify.app/
+
+## Linguagens e libs utilizadas :books:
+
+- [React PDF](https://react-pdf.org/): versão xx.xxx 
