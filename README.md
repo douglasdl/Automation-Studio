@@ -3,13 +3,13 @@
 ## EventBindings
 
 EventBindingSet
-<code>
-  <pre>
+<pre>
+  <code>
     <EventBindingSet>
         <Bindings></Bindings>
     </EventBindingSet>
-  </pre>
-</code>
+  </code>
+</pre>
 
 EventBindingSet
 <code>
