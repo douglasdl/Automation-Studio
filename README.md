@@ -18,3 +18,10 @@ EventBindingSet
     &lt;EventBinding&gt;&lt;/EventBinding&gt;
   &lt;/Bindings&gt;</code>
 </pre>
+
+EventBindingSet
+<code><pre>
+  &lt;Bindings&gt;
+    &lt;EventBinding&gt;&lt;/EventBinding&gt;
+  &lt;/Bindings&gt;</pre>
+</code
