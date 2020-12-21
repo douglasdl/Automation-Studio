@@ -63,3 +63,10 @@ ou
 > Status do Projeto: Concluido :heavy_check_mark:
 
 > Status do Projeto: Em desenvolvimento :warning:
+
+
+## Deploy da Aplicação com Netlify: :dash:
+
+/* Aqui estamos usando a tag Quotes do markdown*/
+
+> https://certificates-for-everyone-womakerscode.netlify.app/
