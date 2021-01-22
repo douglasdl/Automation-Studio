@@ -1,6 +1,7 @@
 # Ignore Compilation Folders
 Language/Binaries
 Language/Diagnosis
+Language/Temp/
 Language/Temp/History/
 Language/Temp/Objects/
 Language/Temp/Transfer/
