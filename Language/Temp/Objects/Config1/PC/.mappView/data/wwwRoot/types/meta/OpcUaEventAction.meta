@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventsActionsDefinitions xmlns="http://www.br-automation.com/iat2019/eventactiondefinition"
+						xmlns:w1="http://www.br-automation.com/iat2014/widget">
+  <EventsActionsDefinition name="opcUa">
+    <MethodGroups>
+      <MethodGroup name="NodeAction">
+        <Methods>
+          <AdvancedMethod name="SetValueBool" read="false">
+            <w1:Description>Sets the "value" attribute of a node OpcUa to a Boolean value.</w1:Description>
+            <w1:Arguments>
+              <w1:Argument name="value" type="Boolean" index="0" required="true">
+                <w1:Description>Value to be set</w1:Description>
+              </w1:Argument>
+            </w1:Arguments>
+            <FilterInfo>Boolean</FilterInfo>
+          </AdvancedMethod>
+          <AdvancedMethod name="ToggleValueBool" read="false">
+            <w1:Description>Switches node OpcUa attribute "value" to its opposite Boolean value. </w1:Description>
+            <FilterInfo>Boolean</FilterInfo>
+          </AdvancedMethod>
+          <AdvancedMethod name="SetValueNumber" read="false">
+            <w1:Description>Sets node OpcUa attribute "value" to a value. </w1:Description>
+            <w1:Arguments>
+              <w1:Argument name="value" type="Numeric" index="0" required="true">
+                <w1:Description>Value to be set</w1:Description>
+              </w1:Argument>
+            </w1:Arguments>
+            <FilterInfo>Int16,Int32,LINT,Byte,SByte,UInt16,UInt32,ULINT,Float,Double,LWORD</FilterInfo>
+          </AdvancedMethod>
+          <AdvancedMethod name="AddValue" read="false">
+            <w1:Description>Adds a value to the current value of node OpcUa attribute "value". </w1:Description>
+            <w1:Arguments>
+              <w1:Argument name="value" type="Numeric" index="0" required="true">
+                <w1:Description>The value to be added</w1:Description>
+              </w1:Argument>
+            </w1:Arguments>
+            <FilterInfo>Int16,Int32,LINT,Byte,SByte,UInt16,UInt32,ULINT,Float,Double,LWORD</FilterInfo>
+          </AdvancedMethod>
+          <AdvancedMethod name="SetValueString" read="false">
+            <w1:Description>Sets node OpcUa attribute "value" to a value. </w1:Description>
+            <w1:Arguments>
+              <w1:Argument name="value" type="String" index="0" required="true">
+                <w1:Description>Value to be set</w1:Description>
+              </w1:Argument>
+            </w1:Arguments>
+            <FilterInfo>String</FilterInfo>
+          </AdvancedMethod>
+          <AdvancedMethod name="SetValueDateTime" read="false">
+            <w1:Description>Sets node OpcUa attribute "value" to a value. </w1:Description>
+            <w1:Arguments>
+              <w1:Argument name="value" type="String" index="0" required="true">
+                <w1:Description>Value to be set</w1:Description>
+              </w1:Argument>
+            </w1:Arguments>
+            <FilterInfo>DateTime</FilterInfo>
+          </AdvancedMethod>
+        </Methods>
+      </MethodGroup>
+      <MethodGroup name="SystemAction">
+        <Methods>
+          <AdvancedMethod name="GetServerStatus" read="true">
+            <w1:Description>Gets the state of the OPC UA server.</w1:Description>
+            <w1:Arguments />
+            <FilterInfo>String</FilterInfo>
+          </AdvancedMethod>
+        </Methods>
+      </MethodGroup>
+    </MethodGroups>
+    <w1:Events>
+      <w1:Event name="Click">
+        <w1:Description>Fired when element is clicked on.</w1:Description>
+        <w1:Arguments>
+          <w1:Argument name="origin" type="String" index="0" required="true">
+            <w1:Description>id of widget that triggered this event</w1:Description>
+          </w1:Argument>
+        </w1:Arguments>
+      </w1:Event>
+    </w1:Events>
+  </EventsActionsDefinition>
+</EventsActionsDefinitions>

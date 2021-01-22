@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.7.5.60 SP"?>
+<Objects>
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="132557482797787247" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="132557477078867263"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="132557477079046825"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="132557477110222160" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Libraries\operator\binary.lby"
+    LogicalPath="Libraries.operator"
+    Type="Library"
+    LastWriteTime="132557477095587736" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Libraries\operator\operator.fun"
+    LogicalPath="Libraries.operator.operator.fun"
+    Type="File"
+    LastWriteTime="132557477095498034"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Libraries\operator\operator.typ"
+    LogicalPath="Libraries.operator.operator.typ"
+    Type="File"
+    LastWriteTime="132557477095547841"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Libraries\operator\operator.var"
+    LogicalPath="Libraries.operator.operator.var"
+    Type="File"
+    LastWriteTime="132557477095577758"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Libraries\runtime\binary.lby"
+    LogicalPath="Libraries.runtime"
+    Type="Library"
+    LastWriteTime="132557477100622709" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Libraries\runtime\runtime.fun"
+    LogicalPath="Libraries.runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="132557477100532968"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Libraries\runtime\runtime.typ"
+    LogicalPath="Libraries.runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="132557477100575298"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Libraries\runtime\runtime.var"
+    LogicalPath="Libraries.runtime.runtime.var"
+    Type="File"
+    LastWriteTime="132557477100612738"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Libraries\astime\binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="132557477105342184" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="132557477105252337"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="132557477105295691"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="132557477105328469"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Libraries\AsIecCon\binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="132557477110132407" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="132557477110042643"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="132557477110082533"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="132557477110122432"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Package.pkg"
+    LogicalPath="mappView"
+    Type="Package"
+    LastWriteTime="132557483009678784" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Layouts\Package.pkg"
+    LogicalPath="mappView.Layouts"
+    Type="Package"
+    LastWriteTime="132557482797493585" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Widgets\Package.pkg"
+    LogicalPath="mappView.Widgets"
+    Type="Package"
+    LastWriteTime="132557482797533474" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Resources\Package.pkg"
+    LogicalPath="mappView.Resources"
+    Type="Package"
+    LastWriteTime="132557482797757337" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Resources\Texts\Package.pkg"
+    LogicalPath="mappView.Resources.Texts"
+    Type="Package"
+    LastWriteTime="132557482797603284" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Resources\Snippets\Package.pkg"
+    LogicalPath="mappView.Resources.Snippets"
+    Type="Package"
+    LastWriteTime="132557482797643177" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Resources\Themes\Package.pkg"
+    LogicalPath="mappView.Resources.Themes"
+    Type="Package"
+    LastWriteTime="132557482797707479" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Resources\Media\Package.pkg"
+    LogicalPath="mappView.Resources.Media"
+    Type="Package"
+    LastWriteTime="132557482797747354" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Visualization\Package.pkg"
+    LogicalPath="mappView.Visualization"
+    Type="Package"
+    LastWriteTime="132557483009648862" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Visualization\Pages\Package.pkg"
+    LogicalPath="mappView.Visualization.Pages"
+    Type="Package"
+    LastWriteTime="132557483239064519" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Visualization\Pages\AreaContents\Package.pkg"
+    LogicalPath="mappView.Visualization.Pages.AreaContents"
+    Type="Package"
+    LastWriteTime="132557483978664376" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Visualization\Pages\AreaContents\AreaHeader.content"
+    LogicalPath="mappView.Visualization.Pages.AreaContents.AreaHeader.content"
+    Type="File"
+    LastWriteTime="132557487878267254"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Visualization\Pages\AreaContents\AreaInfo.content"
+    LogicalPath="mappView.Visualization.Pages.AreaContents.AreaInfo.content"
+    Type="File"
+    LastWriteTime="132557488878813445"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Visualization\Pages\AreaContents\AreaNavigation.content"
+    LogicalPath="mappView.Visualization.Pages.AreaContents.AreaNavigation.content"
+    Type="File"
+    LastWriteTime="132557488676384072"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Visualization\Pages\Page\Package.pkg"
+    LogicalPath="mappView.Visualization.Pages.Page"
+    Type="Package"
+    LastWriteTime="132557484190114594" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Visualization\Pages\Page\AreaContent.page"
+    LogicalPath="mappView.Visualization.Pages.Page.AreaContent.page"
+    Type="File"
+    LastWriteTime="132557486130649250"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Visualization\Pages\Page\AreaContent.content"
+    LogicalPath="mappView.Visualization.Pages.Page.AreaContent.content"
+    Type="File"
+    LastWriteTime="132557488426778958"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Visualization\Variables\Package.pkg"
+    LogicalPath="mappView.Visualization.Variables"
+    Type="Package"
+    LastWriteTime="132557483009287883" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Visualization\Expressions\Package.pkg"
+    LogicalPath="mappView.Visualization.Expressions"
+    Type="Package"
+    LastWriteTime="132557483009337668" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Visualization\Layouts\Package.pkg"
+    LogicalPath="mappView.Visualization.Layouts"
+    Type="Package"
+    LastWriteTime="132557483457936164" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Visualization\Layouts\Landscape16_9.layout"
+    LogicalPath="mappView.Visualization.Layouts.Landscape16_9.layout"
+    Type="File"
+    LastWriteTime="132557483457866336"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Visualization\Dialogs\Package.pkg"
+    LogicalPath="mappView.Visualization.Dialogs"
+    Type="Package"
+    LastWriteTime="132557483009467324" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Visualization\Dialogs\AreaContents\Package.pkg"
+    LogicalPath="mappView.Visualization.Dialogs.AreaContents"
+    Type="Package"
+    LastWriteTime="132557483009457351" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Visualization\Resources\Package.pkg"
+    LogicalPath="mappView.Visualization.Resources"
+    Type="Package"
+    LastWriteTime="132557483009628924" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Visualization\Resources\Texts\Package.pkg"
+    LogicalPath="mappView.Visualization.Resources.Texts"
+    Type="Package"
+    LastWriteTime="132557483009554325" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Logical\mappView\Visualization\Resources\Snippets\Package.pkg"
+    LogicalPath="mappView.Visualization.Resources.Snippets"
+    Type="Package"
+    LastWriteTime="132557483009618945" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\Config.pkg"
+    LogicalPath="Config1"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="132557477154604874" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\Hardware.hw"
+    LogicalPath="Config1.Hardware.hw"
+    Type="File"
+    LastWriteTime="132557477111013092"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\Hardware.hwl"
+    LogicalPath="Config1.Hardware.hwl"
+    Type="File"
+    LastWriteTime="132557477877814903"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\Cpu.pkg"
+    LogicalPath="Config1.PC"
+    Type="Cpu"
+    LastWriteTime="132557477113264928" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\Cpu.sw"
+    LogicalPath="Config1.PC.Cpu.sw"
+    Type="File"
+    LastWriteTime="132557477111738172"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\Cpu.per"
+    LogicalPath="Config1.PC.Cpu.per"
+    Type="File"
+    LastWriteTime="132557477111782677"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\IoMap.iom"
+    LogicalPath="Config1.PC.IoMap.iom"
+    Type="File"
+    LastWriteTime="132557477111802620"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\PvMap.vvm"
+    LogicalPath="Config1.PC.PvMap.vvm"
+    Type="File"
+    LastWriteTime="132557477111822579"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\Connectivity\Package.pkg"
+    LogicalPath="Config1.PC.Connectivity"
+    Type="Package"
+    LastWriteTime="132557477112109943" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="Config1.PC.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="132557477112099975" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\TextSystem\Package.pkg"
+    LogicalPath="Config1.PC.TextSystem"
+    Type="Package"
+    LastWriteTime="132557477112159837" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\UnitSystem\Package.pkg"
+    LogicalPath="Config1.PC.UnitSystem"
+    Type="Package"
+    LastWriteTime="132557477112209675" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\AccessAndSecurity\Package.pkg"
+    LogicalPath="Config1.PC.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="132557477112856017" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="Config1.PC.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="132557477112369274" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="Config1.PC.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="132557477112329358"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="Config1.PC.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="132557477112359280"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="Config1.PC.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="132557477112726354" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="Config1.PC.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="132557477112548768" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="Config1.PC.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="132557477112468992" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="Config1.PC.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="132557477112518851" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="Config1.PC.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="132557477112636597" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="Config1.PC.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="132557477112626622" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="Config1.PC.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="132557477112676496" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="Config1.PC.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="132557477112716387" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="Config1.PC.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="132557477112776222" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\AccessAndSecurity\Firewall\Package.pkg"
+    LogicalPath="Config1.PC.AccessAndSecurity.Firewall"
+    Type="Package"
+    LastWriteTime="132557477112846032" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\AccessAndSecurity\Firewall\Rules.firewallRules"
+    LogicalPath="Config1.PC.AccessAndSecurity.Firewall.Rules.firewallRules"
+    Type="File"
+    LastWriteTime="132557477112836066"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\mappControl\Package.pkg"
+    LogicalPath="Config1.PC.mappControl"
+    Type="Package"
+    LastWriteTime="132557477112905884" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\mappMotion\Package.pkg"
+    LogicalPath="Config1.PC.mappMotion"
+    Type="Package"
+    LastWriteTime="132557477112965718" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\mappServices\Package.pkg"
+    LogicalPath="Config1.PC.mappServices"
+    Type="Package"
+    LastWriteTime="132557477113015592" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\mappSafety\Package.pkg"
+    LogicalPath="Config1.PC.mappSafety"
+    Type="Package"
+    LastWriteTime="132557477113145236" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\mappSafety\SafeApplication\Package.pkg"
+    LogicalPath="Config1.PC.mappSafety.SafeApplication"
+    Type="Package"
+    LastWriteTime="132557477113095389" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\mappSafety\SafeCommissioning\Package.pkg"
+    LogicalPath="Config1.PC.mappSafety.SafeCommissioning"
+    Type="Package"
+    LastWriteTime="132557477113135260" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\mappView\Package.pkg"
+    LogicalPath="Config1.PC.mappView"
+    Type="Package"
+    LastWriteTime="132557480727076963" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\mappView\Visualizat.vis"
+    LogicalPath="Config1.PC.mappView.Visualizat.vis"
+    Type="File"
+    LastWriteTime="132557495130763870"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\mappView\Config.mappviewcfg"
+    LogicalPath="Config1.PC.mappView.Config.mappviewcfg"
+    Type="File"
+    LastWriteTime="132557480727007146"
+    Private="false" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\PC\mappCockpit\Package.pkg"
+    LogicalPath="Config1.PC.mappCockpit"
+    Type="Package"
+    LastWriteTime="132557477113254944" />
+  <Object
+    Path="C:\Users\dleal.MATSUI-JPO\Documents\git\GitTeian\Automation-Studio\Language\Physical\Config1\Hardware.jpg"
+    LogicalPath="Config1.Hardware.jpg"
+    Type="File"
+    LastWriteTime="132557477877894685"
+    Private="false" />
+</Objects>

@@ -1,0 +1,16 @@
+﻿@import "mixins.scss";
+#content_AreaContent_Label1 {
+	@include elemAutoWidth(80);
+}
+#content_AreaContent_Label1 {
+	@include elemAutoHeight(30);
+}
+#content_AreaContent_Label1 {
+	@include elemTop(360);
+}
+#content_AreaContent_Label1 {
+	@include elemLeft(640);
+}
+#content_AreaContent_Label1 {
+		z-index: 0;
+}

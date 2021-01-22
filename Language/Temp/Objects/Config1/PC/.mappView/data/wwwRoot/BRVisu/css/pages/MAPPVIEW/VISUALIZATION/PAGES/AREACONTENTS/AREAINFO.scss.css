@@ -1,0 +1,21 @@
+#content_AreaInfo_Label1 {
+  width: 80px;
+}
+
+#content_AreaInfo_Label1 {
+  height: 30px;
+}
+
+#content_AreaInfo_Label1 {
+  top: 400px;
+  position: absolute;
+}
+
+#content_AreaInfo_Label1 {
+  left: 40px;
+  position: absolute;
+}
+
+#content_AreaInfo_Label1 {
+  z-index: 0;
+}

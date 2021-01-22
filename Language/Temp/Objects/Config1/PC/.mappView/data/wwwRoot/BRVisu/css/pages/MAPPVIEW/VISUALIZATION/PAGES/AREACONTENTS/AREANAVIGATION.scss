@@ -1,0 +1,16 @@
+﻿@import "mixins.scss";
+#content_AreaNavigation_Label1 {
+	@include elemAutoWidth(80);
+}
+#content_AreaNavigation_Label1 {
+	@include elemAutoHeight(30);
+}
+#content_AreaNavigation_Label1 {
+	@include elemTop(420);
+}
+#content_AreaNavigation_Label1 {
+	@include elemLeft(20);
+}
+#content_AreaNavigation_Label1 {
+		z-index: 0;
+}

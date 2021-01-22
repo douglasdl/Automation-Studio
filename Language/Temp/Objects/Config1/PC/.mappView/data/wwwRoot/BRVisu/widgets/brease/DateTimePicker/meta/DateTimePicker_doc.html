@@ -1,0 +1,457 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>widgets.brease.DateTimePicker Documentation</title>
+    <link href="../../../../assets/css/bootstrap.min.css" rel="stylesheet">
+    <style>.true {color:#00aa00;font-weight:bold;}.false {color:#aaa;font-weight:normal;}</style>
+  </head>
+  <body>
+<div class="panel-heading"><h3>widgets.brease.DateTimePicker</h3></div>
+<div class="panel panel-default">
+ <div class="panel-heading"><h3>Widget Description</h3></div>
+<table class="table table-bordered">
+<tbody>
+<tr>
+<td><strong>short: </strong>Eingabe Zeit</td>
+</tr>
+<tr>
+<td><strong>de: </strong>Ermöglicht dem Benutzer eine Zeit einzugeben</td>
+</tr>
+<tr>
+<td><strong>en: </strong>Enables the uster to enter a time value</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="panel panel-default">
+ <div class="panel-heading"><h3>Properties</h3></div>
+<table class="table table-bordered">
+<thead>
+<tr>
+<th>name</th>
+<th>description</th>
+<th>category</th>
+<th>type</th>
+<th>defaultValue</th>
+<th>bindable</th>
+<th>readOnly</th>
+<th>required</th>
+<th>localizable</th>
+<th>editableBinding</th>
+<th>projectable</th>
+<th>cssProp (<small>has no setter and getter in JS</small>)</th>
+<th>groupRefId</th>
+<th>groupOrder</th>
+<th>nodeRefId (<small>for linking node and value</small>)</th>
+<th>deprecated</th>
+<th>typeRefId (<small>for StyleReference</small>)</th>
+<th>subtype (<small>for MpComIdentReference</small>)</th>
+</tr>
+ </thead>
+<tbody>
+<tr>
+<td>enable</td>
+<td>Initial option to enable widget.
+</td>
+<td>Behavior</td>
+<td>Boolean</td>
+<td>true</td>
+<td class="true">true</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="true">true</td>
+<td class="false"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>modal</td>
+<td>If true, the window will be modal, in the meaning that no interaction with beneath page is possible. A semi transparent overlay between window and parent application will catch user actions.<br/>
+It depends on settings 'showCloseButton' and 'forceInteraction' how the user can close the window.
+</td>
+<td></td>
+<td>Boolean</td>
+<td>true</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="true">true</td>
+<td class="false"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>permissionOperate</td>
+<td>restricts operability to users, which have given roles
+</td>
+<td>Accessibility</td>
+<td>RoleCollection</td>
+<td>no defaultValue<br/>defined</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="true">true</td>
+<td class="false"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>permissionView</td>
+<td>restricts visibility to users, which have given roles
+</td>
+<td>Accessibility</td>
+<td>RoleCollection</td>
+<td>no defaultValue<br/>defined</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="true">true</td>
+<td class="false"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>position</td>
+<td>Horizontal and vertical position of the Window.<br/>
+Either a string (horizontal:left/center/right, vertical:top/middle/bottom) or an integer.<br/>
+Example :
+
+<pre><code>  {'horizontal': 'center', 'vertical': 105}
+</code></pre>
+</td>
+<td></td>
+<td>Object</td>
+<td>{&apos;horizontal&apos;:&apos;center&apos;, &apos;vertical&apos;:&apos;middle&apos;}</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="true">true</td>
+<td class="false"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>style</td>
+<td>reference to a style for this widget type
+</td>
+<td>Appearance</td>
+<td>StyleReference</td>
+<td>default</td>
+<td class="true">true</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="true">true</td>
+<td class="false"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>tooltip</td>
+<td>reference to a tooltip for a widget
+</td>
+<td>Appearance</td>
+<td>String</td>
+<td></td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="true">true</td>
+<td class="false">false</td>
+<td class="true">true</td>
+<td class="false"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>visible</td>
+<td>change visibility
+</td>
+<td>Behavior</td>
+<td>Boolean</td>
+<td>true</td>
+<td class="true">true</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="true">true</td>
+<td class="false"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>zIndex</td>
+<td>The zIndex property specifies the z-order of a widget and its childs.<br/>
+        When widgets overlap, z-order determines which one covers the other. A widget with a larger zIndex generally covers a widget with a lower one.<br/>
+        The zIndex must be unique within a content.<br/></td>
+<td></td>
+<td>UInteger</td>
+<td>no defaultValue<br/>defined</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="true">true</td>
+<td class="false"></td>
+<td class="false"></td>
+<td class="true">true</td>
+<td class="true">true</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>left</td>
+<td>absolute position measured from left boundary of parent container</td>
+<td></td>
+<td>Integer</td>
+<td>no defaultValue<br/>defined</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false"></td>
+<td class="false"></td>
+<td class="true">true</td>
+<td class="true">true</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>top</td>
+<td>absolute position measured from top boundary of parent container</td>
+<td></td>
+<td>Integer</td>
+<td>no defaultValue<br/>defined</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false"></td>
+<td class="false"></td>
+<td class="true">true</td>
+<td class="true">true</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>height</td>
+<td>outer height of widget</td>
+<td></td>
+<td>Size</td>
+<td>360</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false"></td>
+<td class="false"></td>
+<td class="true">true</td>
+<td class="true">true</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>width</td>
+<td>outer width of widget</td>
+<td></td>
+<td>Size</td>
+<td>296</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false">false</td>
+<td class="false"></td>
+<td class="false"></td>
+<td class="true">true</td>
+<td class="true">true</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="panel panel-default">
+ <div class="panel-heading"><h3>Styleable Properties</h3></div>
+<table class="table table-bordered">
+<thead>
+<tr>
+<th>name</th>
+<th>type</th>
+<th>description</th>
+<th>defaultValue</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>cornerRadius</td>
+<td>PixelValCollection</td>
+<td><p>corner radius of the edge of DateTimePicker</p>
+</td>
+<td>0px</td>
+</tr>
+<tr>
+<td>headerGradient</td>
+<td>Gradient</td>
+<td><p>color gradient of header</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>borderColor</td>
+<td>ColorCollection</td>
+<td><p>border color of DateTimePicker including header and arrow</p>
+</td>
+<td>#333333</td>
+</tr>
+<tr>
+<td>textColor</td>
+<td>Color</td>
+<td><p>text color for whole DateTimePicker</p>
+</td>
+<td style="background-color:#000000;color:white;">#000000</td>
+</tr>
+<tr>
+<td>opacity</td>
+<td>Opacity</td>
+<td><p>opacity of whole DateTimePicker</p>
+</td>
+<td>1</td>
+</tr>
+<tr>
+<td>fontName</td>
+<td>FontName</td>
+<td><p>font name for whole DateTimePicker</p>
+</td>
+<td>Arial</td>
+</tr>
+<tr>
+<td>shadow</td>
+<td>Shadow</td>
+<td><p>shadow of whole DateTimePicker</p>
+</td>
+<td>none</td>
+</tr>
+<tr>
+<td>backColor</td>
+<td>Color</td>
+<td><p>background color of DateTimePicker except the header</p>
+</td>
+<td style="background-color:#333333;color:white;">#333333</td>
+</tr>
+<tr>
+<td>backGroundGradient</td>
+<td>Gradient</td>
+<td><p>background gradient of DateTimePicker except the header</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>mouseDownBackColor</td>
+<td>Color</td>
+<td><p>background color of enter and reset button in pressed state</p>
+</td>
+<td style="background-color:#FF8800;color:black;">#FF8800</td>
+</tr>
+<tr>
+<td>mouseDownTextColor</td>
+<td>Color</td>
+<td><p>text color of enter and reset button in pressed state</p>
+</td>
+<td style="background-color:#FFFFFF;color:black;">#FFFFFF</td>
+</tr>
+<tr>
+<td>buttonBackGroundGradient</td>
+<td>Gradient</td>
+<td><p>background gradient of enter and reset button</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>buttonMouseDownBackGroundGradient</td>
+<td>Gradient</td>
+<td><p>background gradient of enter and reset button in mousedown state</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>lineColor</td>
+<td>Color</td>
+<td><p>color of separating lines between wheel values</p>
+</td>
+<td style="background-color:#d4d4d4;color:black;">#d4d4d4</td>
+</tr>
+<tr>
+<td>activeLineColor</td>
+<td>Color</td>
+<td><p>color of separating lines above and below selected wheel values</p>
+</td>
+<td style="background-color:#FF8800;color:black;">#FF8800</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+ <script src="../../../../jquery.js"></script>
+ <script src="../../../../assets/js/bootstrap.min.js"></script>
+</body>
+</html>
