@@ -14,3 +14,7 @@ LoggerData
 
 # Ignore Users Set Files
 *.set
+
+
+#
+*.isopen
