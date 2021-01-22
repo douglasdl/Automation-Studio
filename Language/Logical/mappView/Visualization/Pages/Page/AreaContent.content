@@ -3,5 +3,6 @@
   <Widgets>
     <Widget xsi:type="widgets.brease.Label" id="Label1" top="360" left="0" width="1330" zIndex="0" text="$IAT/content" textAlign="center" bold="true" />
     <Widget xsi:type="widgets.brease.LanguageSelector" id="LanguageSelector1" top="459" left="620" zIndex="1" />
+    <Widget xsi:type="widgets.brease.Label" id="Label2" top="60" left="60" width="190" zIndex="2" text="Main Project" textAlign="center" bold="true" />
   </Widgets>
 </Content>
