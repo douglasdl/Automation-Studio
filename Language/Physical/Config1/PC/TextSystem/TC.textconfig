@@ -8,6 +8,7 @@
         <Property ID="TargetLanguage[1]" Value="ja" />
         <Property ID="TargetLanguage[2]" Value="pt" />
         <Property ID="TargetLanguage[3]" Value="en" />
+        <Property ID="TargetLanguage[4]" Value="de" />
       </Group>
     </Group>
     <Group ID="TargetFiles">

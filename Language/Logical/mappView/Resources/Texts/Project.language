@@ -13,4 +13,8 @@
     <Property ID="LanguageName" Value="Japanese" />
     <Property ID="NativeName" Value="日本語" />
   </Element>
+  <Element ID="de" Type="Language">
+    <Property ID="LanguageName" Value="German" />
+    <Property ID="NativeName" Value="Deutsch" />
+  </Element>
 </Configuration>

@@ -6,6 +6,9 @@
   </header>
   <body>
     <tu tuid="header">
+      <tuv xml:lang="de">
+        <seg>Kopfzeile</seg>
+      </tuv>
       <tuv xml:lang="ja">
         <seg>ヘッダ</seg>
       </tuv>
@@ -18,14 +21,14 @@
       <tuv xml:lang="pt-BR">
         <seg>Cabeçalho</seg>
       </tuv>
-      <tuv xml:lang="de">
-        <seg>Servus Welt!</seg>
-      </tuv>
       <tuv xml:lang="fr">
         <seg>Bonjour tout le monde!</seg>
       </tuv>
     </tu>
     <tu tuid="info">
+      <tuv xml:lang="de">
+        <seg>Info</seg>
+      </tuv>
       <tuv xml:lang="ja">
         <seg>情報</seg>
       </tuv>
@@ -40,6 +43,9 @@
       </tuv>
     </tu>
     <tu tuid="content">
+      <tuv xml:lang="de">
+        <seg>Inhalt</seg>
+      </tuv>
       <tuv xml:lang="ja">
         <seg>内容</seg>
       </tuv>
@@ -54,6 +60,9 @@
       </tuv>
     </tu>
     <tu tuid="navigation">
+      <tuv xml:lang="de">
+        <seg>Navigation</seg>
+      </tuv>
       <tuv xml:lang="ja">
         <seg>ナビゲーション</seg>
       </tuv>
