@@ -9,11 +9,14 @@
       <tuv xml:lang="ja">
         <seg>ヘッダ</seg>
       </tuv>
-      <tuv xml:lang="pt-BR">
+      <tuv xml:lang="pt">
         <seg>Cabeçalho</seg>
       </tuv>
       <tuv xml:lang="en">
         <seg>Header</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR">
+        <seg>Cabeçalho</seg>
       </tuv>
       <tuv xml:lang="de">
         <seg>Servus Welt!</seg>
@@ -26,33 +29,42 @@
       <tuv xml:lang="ja">
         <seg>情報</seg>
       </tuv>
-      <tuv xml:lang="pt-BR">
-        <seg>Informação</seg>
+      <tuv xml:lang="pt">
+        <seg>Informações</seg>
       </tuv>
       <tuv xml:lang="en">
         <seg>Info</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR">
+        <seg>Informação</seg>
       </tuv>
     </tu>
     <tu tuid="content">
       <tuv xml:lang="ja">
         <seg>内容</seg>
       </tuv>
-      <tuv xml:lang="pt-BR">
+      <tuv xml:lang="pt">
         <seg>Conteúdo</seg>
       </tuv>
       <tuv xml:lang="en">
         <seg>Content</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR">
+        <seg>Conteúdo</seg>
       </tuv>
     </tu>
     <tu tuid="navigation">
       <tuv xml:lang="ja">
         <seg>ナビゲーション</seg>
       </tuv>
-      <tuv xml:lang="pt-BR">
+      <tuv xml:lang="pt">
         <seg>Navegação</seg>
       </tuv>
       <tuv xml:lang="en">
         <seg>Navigation</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR">
+        <seg>Navegação</seg>
       </tuv>
     </tu>
   </body>
