@@ -20,19 +20,19 @@
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\widgets\brease\numpad\meta\numpad_copied.markerfile" LastWriteTime="2021-01-22 00:54:02" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\widgets\brease\keyboard\meta\keyboard_copied.markerfile" LastWriteTime="2021-01-22 00:54:02" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\widgets\brease\datetimepicker\meta\datetimepicker_copied.markerfile" LastWriteTime="2021-01-22 00:54:02" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\iat_media.job" LastWriteTime="2021-01-22 01:42:10" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\iat_media.job" LastWriteTime="2021-01-22 02:23:18" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\iat_media.job._markerfile" LastWriteTime="1601-01-01 00:00:00" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\transformations\eventbinding\parametertypemapping.xml" LastWriteTime="2021-01-22 01:23:40" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\vis_0.json" LastWriteTime="2021-01-22 01:23:44" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areaheader.scss.css" LastWriteTime="2021-01-22 00:55:18" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areainfo.scss.css" LastWriteTime="2021-01-22 00:55:20" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\page\areacontent.scss.css" LastWriteTime="2021-01-22 01:23:42" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areanavigation.scss.css" LastWriteTime="2021-01-22 00:55:26" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\transformations\eventbinding\parametertypemapping.xml" LastWriteTime="2021-01-22 02:23:20" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\vis_0.json" LastWriteTime="2021-01-22 02:23:26" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areaheader.scss.css" LastWriteTime="2021-01-22 02:23:24" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areainfo.scss.css" LastWriteTime="2021-01-22 02:23:24" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\page\areacontent.scss.css" LastWriteTime="2021-01-22 02:23:24" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areanavigation.scss.css" LastWriteTime="2021-01-22 02:23:24" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\validateeventbindings._markerfile" LastWriteTime="2021-01-22 00:55:26" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\server\__systemvariables.sessionvar" LastWriteTime="2021-01-22 00:55:28" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\server\vis_0.vis" LastWriteTime="2021-01-22 00:54:04" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\grunt.widgets._markerfile" LastWriteTime="2021-01-22 01:23:56" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\brease_core.css" LastWriteTime="2021-01-22 01:23:42" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\grunt.widgets._markerfile" LastWriteTime="2021-01-22 02:23:38" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\brease_core.css" LastWriteTime="2021-01-22 02:23:26" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\server\config.mappviewcfg" LastWriteTime="2021-01-22 00:14:32" />
   </Rule>
   <Rule ID=".mappView_IntegrationBuild">
@@ -157,7 +157,7 @@
     <CommandLine Parameter="-category CopyDirectory -i &quot;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2/Widgets/brease/DateTimePicker&quot; -o &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/BRVisu/widgets/brease/DateTimePicker&quot; -markerFile &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/BRVisu/widgets/brease/DateTimePicker/meta/DateTimePicker_Copied.markerFile&quot; -cultureName &quot;ja-JP&quot; -uiCultureName &quot;en-US&quot;" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\iat_media.job._markerfile">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\iat_media.job" LastWriteTime="2021-01-22 01:42:10" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\iat_media.job" LastWriteTime="2021-01-22 02:23:18" />
     <CommandLine Parameter="-category BulkCopy -i &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/IAT_MEDIA.job&quot; -o &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/IAT_MEDIA.job._markerfile&quot; -markerFile &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/IAT_MEDIA.job._markerfile&quot; -cultureName &quot;ja-JP&quot; -uiCultureName &quot;en-US&quot;" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\index.html">
@@ -172,10 +172,10 @@
     <Prerequisite ID="c:\brautomation\as47\as\technologypackages\mappview\5.9.2\transformations\eventbinding\parametertypemapping.xml" LastWriteTime="2020-03-03 15:24:08" />
     <Prerequisite ID="c:\brautomation\as47\as\technologypackages\mappview\5.9.2\widgets\brease\widgetlibrary.mapping" LastWriteTime="2020-03-03 14:56:02" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\.mappview_prerequisites._markerfile" LastWriteTime="2021-01-22 00:55:00" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\areacontents\areaheader.content" LastWriteTime="2021-01-22 00:26:26" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\areacontents\areainfo.content" LastWriteTime="2021-01-22 00:28:06" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\page\areacontent.content" LastWriteTime="2021-01-22 01:20:30" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\areacontents\areanavigation.content" LastWriteTime="2021-01-22 00:27:46" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\areacontents\areaheader.content" LastWriteTime="2021-01-22 02:22:16" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\areacontents\areainfo.content" LastWriteTime="2021-01-22 02:21:18" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\page\areacontent.content" LastWriteTime="2021-01-22 02:22:24" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\areacontents\areanavigation.content" LastWriteTime="2021-01-22 02:21:02" />
     <CommandLine Parameter=" &quot;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2/Transformations/eventbinding/ParameterTypeMapping.xml&quot; &quot;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2/Widgets/brease/WidgetLibrary.mapping&quot;  -category &quot;MappingMerge&quot; -o &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/Transformations/eventbinding/ParameterTypeMapping.xml&quot; -cultureName &quot;ja-JP&quot; -uiCultureName &quot;en-US&quot;" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\vis_0.json._markerfile">
@@ -186,22 +186,22 @@
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\vis_0.json">
     <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\pc\mappview\visualizat.vis" LastWriteTime="2021-01-22 00:38:32" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\vis_0.json._markerfile" LastWriteTime="2021-01-22 00:55:12" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\page_0.page._markerfile" LastWriteTime="2021-01-22 01:23:42" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\page_0.page._markerfile" LastWriteTime="2021-01-22 02:23:24" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\layout_0.layout._markerfile" LastWriteTime="2021-01-22 00:55:12" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areaheader._markerfile" LastWriteTime="2021-01-22 00:55:16" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areainfo._markerfile" LastWriteTime="2021-01-22 00:55:18" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areacontent._markerfile" LastWriteTime="2021-01-22 01:23:42" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areanavigation._markerfile" LastWriteTime="2021-01-22 00:55:18" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areaheader._markerfile" LastWriteTime="2021-01-22 02:23:22" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areainfo._markerfile" LastWriteTime="2021-01-22 02:23:22" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areacontent._markerfile" LastWriteTime="2021-01-22 02:23:22" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areanavigation._markerfile" LastWriteTime="2021-01-22 02:23:24" />
     <CommandLine Parameter="-i &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Physical/Config1/PC/mappView/Visualizat.vis&quot; -o &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/vis_0.json&quot; -indexFile &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/BR.IAT.indexfile&quot; -fileList &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/vis_0_json.bin&quot; -logicalDir &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Logical&quot; -cultureName &quot;ja-JP&quot; -uiCultureName &quot;en-US&quot;" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\page_0.page._markerfile">
     <Prerequisite ID="$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\page\areacontent.page" LastWriteTime="2021-01-22 00:23:32" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\.mappview_prerequisites._markerfile" LastWriteTime="2021-01-22 00:55:00" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\layout_0.layout._markerfile" LastWriteTime="2021-01-22 00:55:12" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areaheader._markerfile" LastWriteTime="2021-01-22 00:55:16" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areainfo._markerfile" LastWriteTime="2021-01-22 00:55:18" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areacontent._markerfile" LastWriteTime="2021-01-22 01:23:42" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areanavigation._markerfile" LastWriteTime="2021-01-22 00:55:18" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areaheader._markerfile" LastWriteTime="2021-01-22 02:23:22" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areainfo._markerfile" LastWriteTime="2021-01-22 02:23:22" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areacontent._markerfile" LastWriteTime="2021-01-22 02:23:22" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areanavigation._markerfile" LastWriteTime="2021-01-22 02:23:24" />
     <CommandLine Parameter="-i &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Logical/mappView/Visualization/Pages/Page/AreaContent.page&quot; -o &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/page_0.page._markerfile&quot; -schemaset &quot;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2/Schemas/page/engineering/PageDefinition.xmlschemaset&quot; -cultureName &quot;ja-JP&quot; -uiCultureName &quot;en-US&quot;" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\layout_0.layout._markerfile">
@@ -210,29 +210,29 @@
     <CommandLine Parameter="-i &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Logical/mappView/Visualization/Layouts/Landscape16_9.layout&quot; -o &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/layout_0.layout._markerfile&quot; -schemaset &quot;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2/Schemas/layout/Layout.xmlschemaset&quot; -cultureName &quot;ja-JP&quot; -uiCultureName &quot;en-US&quot;" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areaheader._markerfile">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\areacontents\areaheader.content" LastWriteTime="2021-01-22 00:26:26" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\areacontents\areaheader.content" LastWriteTime="2021-01-22 02:22:16" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\.mappview_prerequisites._markerfile" LastWriteTime="2021-01-22 00:55:00" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\widgets\brease\label\meta\label_copied.markerfile" LastWriteTime="2021-01-22 00:53:58" />
     <CommandLine Parameter="-i &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Logical/mappView/Visualization/Pages/AreaContents/AreaHeader.content&quot; -html &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/contents/mappView/content_AreaHeader.html&quot; -sass &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/BRVisu/css/pages/MAPPVIEW/VISUALIZATION/PAGES/AREACONTENTS/AREAHEADER.scss&quot; -schemaset &quot;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2/Widgets/brease/WidgetLibrary.xmlschemaset;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2/Schemas/content/engineering/Content.xmlschemaset;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2/Schemas/content/engineering/WidgetLibrary.xmlschemaset&quot; -htmlTransformation &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/Transformations/content/HTMLBuilder.xsl&quot; -stylesTransformation &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/Transformations/content/StyleBuilder.xsl&quot; -iatFile &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/BindingTransformer_IatFiles.bin&quot; -markerFile &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/contents/mappView/content_AreaHeader._markerfile&quot; -cultureName &quot;ja-JP&quot; -uiCultureName &quot;en-US&quot;" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areaheader.scss.css">
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\.mappview_prerequisites._markerfile" LastWriteTime="2021-01-22 00:55:00" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areaheader._markerfile" LastWriteTime="2021-01-22 00:55:16" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areaheader._markerfile" LastWriteTime="2021-01-22 02:23:22" />
     <CommandLine Parameter="-command &quot;buildStyleableProperties&quot; -i &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/BRVisu/css/pages/MAPPVIEW/VISUALIZATION/PAGES/AREACONTENTS/AREAHEADER.scss&quot; -o &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/BRVisu/css/pages/MAPPVIEW/VISUALIZATION/PAGES/AREACONTENTS/AREAHEADER.scss.css&quot; -iatc &quot;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2/IATC&quot; -domain &quot;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2&quot; -workingDir &quot;.&quot; -cultureName &quot;ja-JP&quot; -uiCultureName &quot;en-US&quot;" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areainfo._markerfile">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\areacontents\areainfo.content" LastWriteTime="2021-01-22 00:28:06" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\areacontents\areainfo.content" LastWriteTime="2021-01-22 02:21:18" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\.mappview_prerequisites._markerfile" LastWriteTime="2021-01-22 00:55:00" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\widgets\brease\label\meta\label_copied.markerfile" LastWriteTime="2021-01-22 00:53:58" />
     <CommandLine Parameter="-i &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Logical/mappView/Visualization/Pages/AreaContents/AreaInfo.content&quot; -html &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/contents/mappView/content_AreaInfo.html&quot; -sass &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/BRVisu/css/pages/MAPPVIEW/VISUALIZATION/PAGES/AREACONTENTS/AREAINFO.scss&quot; -schemaset &quot;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2/Widgets/brease/WidgetLibrary.xmlschemaset;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2/Schemas/content/engineering/Content.xmlschemaset;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2/Schemas/content/engineering/WidgetLibrary.xmlschemaset&quot; -htmlTransformation &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/Transformations/content/HTMLBuilder.xsl&quot; -stylesTransformation &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/Transformations/content/StyleBuilder.xsl&quot; -iatFile &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/BindingTransformer_IatFiles.bin&quot; -markerFile &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/contents/mappView/content_AreaInfo._markerfile&quot; -cultureName &quot;ja-JP&quot; -uiCultureName &quot;en-US&quot;" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areainfo.scss.css">
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\.mappview_prerequisites._markerfile" LastWriteTime="2021-01-22 00:55:00" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areainfo._markerfile" LastWriteTime="2021-01-22 00:55:18" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areainfo._markerfile" LastWriteTime="2021-01-22 02:23:22" />
     <CommandLine Parameter="-command &quot;buildStyleableProperties&quot; -i &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/BRVisu/css/pages/MAPPVIEW/VISUALIZATION/PAGES/AREACONTENTS/AREAINFO.scss&quot; -o &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/BRVisu/css/pages/MAPPVIEW/VISUALIZATION/PAGES/AREACONTENTS/AREAINFO.scss.css&quot; -iatc &quot;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2/IATC&quot; -domain &quot;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2&quot; -workingDir &quot;.&quot; -cultureName &quot;ja-JP&quot; -uiCultureName &quot;en-US&quot;" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areacontent._markerfile">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\page\areacontent.content" LastWriteTime="2021-01-22 01:20:30" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\page\areacontent.content" LastWriteTime="2021-01-22 02:22:24" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\.mappview_prerequisites._markerfile" LastWriteTime="2021-01-22 00:55:00" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\widgets\brease\label\meta\label_copied.markerfile" LastWriteTime="2021-01-22 00:53:58" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\widgets\brease\languageselector\meta\languageselector_copied.markerfile" LastWriteTime="2021-01-22 01:23:40" />
@@ -241,18 +241,18 @@
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\page\areacontent.scss.css">
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\.mappview_prerequisites._markerfile" LastWriteTime="2021-01-22 00:55:00" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areacontent._markerfile" LastWriteTime="2021-01-22 01:23:42" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areacontent._markerfile" LastWriteTime="2021-01-22 02:23:22" />
     <CommandLine Parameter="-command &quot;buildStyleableProperties&quot; -i &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/BRVisu/css/pages/MAPPVIEW/VISUALIZATION/PAGES/PAGE/AREACONTENT.scss&quot; -o &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/BRVisu/css/pages/MAPPVIEW/VISUALIZATION/PAGES/PAGE/AREACONTENT.scss.css&quot; -iatc &quot;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2/IATC&quot; -domain &quot;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2&quot; -workingDir &quot;.&quot; -cultureName &quot;ja-JP&quot; -uiCultureName &quot;en-US&quot;" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areanavigation._markerfile">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\areacontents\areanavigation.content" LastWriteTime="2021-01-22 00:27:46" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\areacontents\areanavigation.content" LastWriteTime="2021-01-22 02:21:02" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\.mappview_prerequisites._markerfile" LastWriteTime="2021-01-22 00:55:00" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\widgets\brease\label\meta\label_copied.markerfile" LastWriteTime="2021-01-22 00:53:58" />
     <CommandLine Parameter="-i &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Logical/mappView/Visualization/Pages/AreaContents/AreaNavigation.content&quot; -html &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/contents/mappView/content_AreaNavigation.html&quot; -sass &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/BRVisu/css/pages/MAPPVIEW/VISUALIZATION/PAGES/AREACONTENTS/AREANAVIGATION.scss&quot; -schemaset &quot;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2/Widgets/brease/WidgetLibrary.xmlschemaset;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2/Schemas/content/engineering/Content.xmlschemaset;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2/Schemas/content/engineering/WidgetLibrary.xmlschemaset&quot; -htmlTransformation &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/Transformations/content/HTMLBuilder.xsl&quot; -stylesTransformation &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/Transformations/content/StyleBuilder.xsl&quot; -iatFile &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/BindingTransformer_IatFiles.bin&quot; -markerFile &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/contents/mappView/content_AreaNavigation._markerfile&quot; -cultureName &quot;ja-JP&quot; -uiCultureName &quot;en-US&quot;" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areanavigation.scss.css">
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\.mappview_prerequisites._markerfile" LastWriteTime="2021-01-22 00:55:00" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areanavigation._markerfile" LastWriteTime="2021-01-22 00:55:18" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areanavigation._markerfile" LastWriteTime="2021-01-22 02:23:24" />
     <CommandLine Parameter="-command &quot;buildStyleableProperties&quot; -i &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/BRVisu/css/pages/MAPPVIEW/VISUALIZATION/PAGES/AREACONTENTS/AREANAVIGATION.scss&quot; -o &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/BRVisu/css/pages/MAPPVIEW/VISUALIZATION/PAGES/AREACONTENTS/AREANAVIGATION.scss.css&quot; -iatc &quot;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2/IATC&quot; -domain &quot;C:/BrAutomation/AS47/AS/TechnologyPackages/mappView/5.9.2&quot; -workingDir &quot;.&quot; -cultureName &quot;ja-JP&quot; -uiCultureName &quot;en-US&quot;" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\validatebindings._markerfile">
@@ -301,10 +301,10 @@
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\scrollbar_default.scss.css" LastWriteTime="2021-01-22 00:55:10" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\startupprogressbar_default.scss.css" LastWriteTime="2021-01-22 00:55:10" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\tooltip_default.scss.css" LastWriteTime="2021-01-22 00:55:10" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areaheader.scss.css" LastWriteTime="2021-01-22 00:55:18" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areainfo.scss.css" LastWriteTime="2021-01-22 00:55:20" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\page\areacontent.scss.css" LastWriteTime="2021-01-22 01:23:42" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areanavigation.scss.css" LastWriteTime="2021-01-22 00:55:26" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areaheader.scss.css" LastWriteTime="2021-01-22 02:23:24" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areainfo.scss.css" LastWriteTime="2021-01-22 02:23:24" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\page\areacontent.scss.css" LastWriteTime="2021-01-22 02:23:24" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areanavigation.scss.css" LastWriteTime="2021-01-22 02:23:24" />
     <Prerequisite ID="c:\brautomation\as47\as\technologypackages\mappview\5.9.2\iatc\brvisu\css\brease_main.sass.css" LastWriteTime="2020-03-03 14:54:50" />
     <Prerequisite ID="c:\brautomation\as47\as\technologypackages\mappview\5.9.2\iatc\brvisu\css\brease_suffix.sass.css" LastWriteTime="2020-03-03 14:54:50" />
     <Prerequisite ID="c:\brautomation\as47\as\technologypackages\mappview\5.9.2\iatc\brvisu\system\widgets\contentloader\css\contentloader.sass.css" LastWriteTime="2020-03-03 14:54:50" />
@@ -577,7 +577,7 @@
     <Prerequisite ID="c:\brautomation\as47\as\technologypackages\mappview\5.9.2\widgets\brease\webviewer\meta\webviewer_default.sass.css" LastWriteTime="2020-03-03 14:56:02" />
     <Prerequisite ID="c:\brautomation\as47\as\technologypackages\mappview\5.9.2\widgets\brease\window\meta\window_default.sass.css" LastWriteTime="2020-03-03 14:56:02" />
     <Prerequisite ID="c:\brautomation\as47\as\technologypackages\mappview\5.9.2\widgets\brease\xyjoystick\meta\xyjoystick_default.sass.css" LastWriteTime="2020-03-03 14:56:02" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\brease_core.css" LastWriteTime="2021-01-22 01:23:42" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\brease_core.css" LastWriteTime="2021-01-22 02:23:26" />
     <CommandLine Parameter="-workingDir &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/build/node_modules/.bin&quot; -gruntCommand &quot;breaseBuildAs --buildpath=&quot;&quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot&quot;&quot;&quot; -markerFile &quot;C:/Users/dleal.MATSUI-JPO/Documents/git/GitTeian/Automation-Studio/Language/Temp/Objects/Config1/PC/.mappView/data/wwwRoot/grunt.widgets._markerfile&quot; -cultureName &quot;ja-JP&quot; -uiCultureName &quot;en-US&quot;" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\brease_core.css">
@@ -591,10 +591,10 @@
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\scrollbar_default.scss.css" LastWriteTime="2021-01-22 00:55:10" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\startupprogressbar_default.scss.css" LastWriteTime="2021-01-22 00:55:10" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\tooltip_default.scss.css" LastWriteTime="2021-01-22 00:55:10" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areaheader.scss.css" LastWriteTime="2021-01-22 00:55:18" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areainfo.scss.css" LastWriteTime="2021-01-22 00:55:20" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\page\areacontent.scss.css" LastWriteTime="2021-01-22 01:23:42" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areanavigation.scss.css" LastWriteTime="2021-01-22 00:55:26" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areaheader.scss.css" LastWriteTime="2021-01-22 02:23:24" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areainfo.scss.css" LastWriteTime="2021-01-22 02:23:24" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\page\areacontent.scss.css" LastWriteTime="2021-01-22 02:23:24" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areanavigation.scss.css" LastWriteTime="2021-01-22 02:23:24" />
     <Prerequisite ID="c:\brautomation\as47\as\technologypackages\mappview\5.9.2\iatc\brvisu\css\brease_main.sass.css" LastWriteTime="2020-03-03 14:54:50" />
     <Prerequisite ID="c:\brautomation\as47\as\technologypackages\mappview\5.9.2\iatc\brvisu\css\brease_suffix.sass.css" LastWriteTime="2020-03-03 14:54:50" />
     <Prerequisite ID="c:\brautomation\as47\as\technologypackages\mappview\5.9.2\iatc\brvisu\system\widgets\contentloader\css\contentloader.sass.css" LastWriteTime="2020-03-03 14:54:50" />
@@ -913,16 +913,25 @@
     <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Physical\Config1\PC\IoMap.iom&quot; &quot;$(AS_PROJECT_PATH)\Physical\Config1\PC\PvMap.vvm&quot;  -m &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\PC\ConfigInfo.cfi&quot; -g &quot;$(AS_PROJECT_PATH)\Temp\Objects\Declarations.lst&quot; -x &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\PC\ChannelConfiguration.xml&quot; -v V1.00.0 -f &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\PC&quot; -iomap -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\PC\iomap.br&quot; -T SG4 -B C4.72 -P &quot;$(AS_PROJECT_PATH)&quot; -s &quot;Config1.PC&quot;" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\tcdata\tcdata.imx">
-    <Prerequisite ID="c:\brautomation\as47\as\technologypackages\textsystem\n.d\objectcatalog\elements\textconfig\template\tc.textconfig" LastWriteTime="2019-10-10 08:00:38" />
-    <CommandLine Parameter=" -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\PC\TCData\TCData.imx&quot; -c &quot;C:\BrAutomation\AS47\AS\TechnologyPackages\TextSystem\n.d\ObjectCatalog\Elements\TextConfig\Template\TC.textconfig&quot; -I &quot;C:\BrAutomation\AS\System\C0472&quot; &quot;C:\BrAutomation\AS47\AS\TechnologyPackages\mappView\5.9.2&quot; &quot;C:\BrAutomation\AS47\AS\TechnologyPackages\UnitSystem\n.d&quot; -P &quot;$(AS_PROJECT_PATH)&quot;" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\mappview\resources\texts\localizabletexts.tmx" LastWriteTime="2021-01-22 02:06:40" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\pc\textsystem\tc.textconfig" LastWriteTime="2021-01-22 02:06:08" />
+    <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Logical\mappView\Resources\Texts\LocalizableTexts.tmx&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\PC\TCData\TCData.imx&quot; -c &quot;$(AS_PROJECT_PATH)\Physical\Config1\PC\TextSystem\TC.textconfig&quot; -I &quot;C:\BrAutomation\AS\System\C0472&quot; &quot;C:\BrAutomation\AS47\AS\TechnologyPackages\mappView\5.9.2&quot; &quot;C:\BrAutomation\AS47\AS\TechnologyPackages\UnitSystem\n.d&quot; -P &quot;$(AS_PROJECT_PATH)&quot; -m mappView.Resources.Texts.LocalizableTexts.tmx" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\tcdata\tcdata.s18d">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\tcdata\tcdata.imx" LastWriteTime="2021-01-22 00:28:48" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\tcdata\tcdata.imx" LastWriteTime="2021-01-22 02:11:12" />
     <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\PC\TCData\TCData.imx&quot; -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\PC\TCData\TCData.s18d&quot;" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\tcdata.br">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\tcdata\tcdata.s18d" LastWriteTime="2021-01-22 00:28:52" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\tcdata\tcdata.s18d" LastWriteTime="2021-01-22 02:11:14" />
     <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\PC\TCData\TCData.s18d&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\PC\TCData.br&quot; -t TextModule" />
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\tclang.br">
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\mappview\resources\texts\project.language" LastWriteTime="2021-01-22 02:13:56" />
+    <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Logical\mappView\Resources\Texts\Project.language&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\PC\TCLang.br&quot; -zip -B C4.72 -z n.d -P &quot;$(AS_PROJECT_PATH)&quot; -c &quot;Config1&quot; " />
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\tc.br">
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\pc\textsystem\tc.textconfig" LastWriteTime="2021-01-22 02:06:08" />
+    <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Physical\Config1\PC\TextSystem\TC.textconfig&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\PC\TC.br&quot; -zip -B C4.72 -z n.d -P &quot;$(AS_PROJECT_PATH)&quot; -c &quot;Config1&quot; " />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\role.br">
     <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\pc\accessandsecurity\userrolesystem\role.role" LastWriteTime="2021-01-22 00:08:30" />
@@ -948,7 +957,9 @@
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\mvloader.br" LastWriteTime="2019-08-29 14:52:10" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\udbdef.br" LastWriteTime="2019-10-10 08:00:38" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\iomap.br" LastWriteTime="2021-01-22 00:10:00" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\tcdata.br" LastWriteTime="2021-01-22 00:28:52" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\tcdata.br" LastWriteTime="2021-01-22 02:11:16" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\tclang.br" LastWriteTime="2021-01-22 02:16:22" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\tc.br" LastWriteTime="2021-01-22 02:11:10" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\role.br" LastWriteTime="2021-01-22 00:09:58" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\user.br" LastWriteTime="2021-01-22 00:10:00" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\fwrules.br" LastWriteTime="2021-01-22 00:10:00" />

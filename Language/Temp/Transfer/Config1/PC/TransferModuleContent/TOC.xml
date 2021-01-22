@@ -514,7 +514,7 @@
 						</Folder>
 						<Folder Name="release" ProjectDependent="1" IgnoreDifference="0">
 							<File Name="brease.js" Size="749387" HashValue="8D509457A98ED7EECF108074D5B0D4BB" ProjectDependent="1" IgnoreDifference="0" />
-							<File Name="brease_core.min.css" Size="360226" HashValue="8994C15F6A0366D40F9720A6E37CC2AE" ProjectDependent="1" IgnoreDifference="0" />
+							<File Name="brease_core.min.css" Size="360219" HashValue="3FE3C2CEA4BCF16ED33E5319D80633EB" ProjectDependent="1" IgnoreDifference="0" />
 						</Folder>
 						<Folder Name="system" ProjectDependent="1" IgnoreDifference="0">
 							<Folder Name="brease" ProjectDependent="1" IgnoreDifference="0">
@@ -1248,10 +1248,10 @@
 					</Folder>
 					<Folder Name="contents" ProjectDependent="1" IgnoreDifference="0">
 						<Folder Name="mappView" ProjectDependent="1" IgnoreDifference="0">
-							<File Name="content_AreaContent.html" Size="631" HashValue="F608AB13CD1B57D17E8AF53F6B4C30B2" ProjectDependent="1" IgnoreDifference="0" />
-							<File Name="content_AreaHeader.html" Size="309" HashValue="CB7E5318D2D293531B7E1BA09A13F2F7" ProjectDependent="1" IgnoreDifference="0" />
-							<File Name="content_AreaInfo.html" Size="301" HashValue="2A0A46E26ACB031576A8F7BCC424E931" ProjectDependent="1" IgnoreDifference="0" />
-							<File Name="content_AreaNavigation.html" Size="325" HashValue="C657A7214BDAB181548DD9CC943BB136" ProjectDependent="1" IgnoreDifference="0" />
+							<File Name="content_AreaContent.html" Size="637" HashValue="189EC3B31D404FD03F8A859AF51B2EB6" ProjectDependent="1" IgnoreDifference="0" />
+							<File Name="content_AreaHeader.html" Size="315" HashValue="3D54FB831C254A2171939DF104958AF8" ProjectDependent="1" IgnoreDifference="0" />
+							<File Name="content_AreaInfo.html" Size="306" HashValue="896467CAC24B551AC6AAF38AFAAFFC07" ProjectDependent="1" IgnoreDifference="0" />
+							<File Name="content_AreaNavigation.html" Size="330" HashValue="542FCF35D9F172A62BB753AC99671082" ProjectDependent="1" IgnoreDifference="0" />
 						</Folder>
 					</Folder>
 					<Folder Name="server" ProjectDependent="1" IgnoreDifference="0">
@@ -1397,7 +1397,7 @@
 		</Class>
 		<Memory Name="SYSROM">
 			<Module Name="::$$sysconf" Type="129" Size="67156" Modified="2021-01-22 09:10:01" Version="4.72" ProjectDependent="1" Reboot="1" />
-			<Module Name="::TCData" Type="209" Size="3874440" Modified="2021-01-22 09:28:53" Version="1.00" ProjectDependent="1" />
+			<Module Name="::TCData" Type="209" Size="3877536" Modified="2021-01-22 11:11:16" Version="1.00" ProjectDependent="1" />
 			<Module Name="::arconfig" Type="132" Size="448" Modified="2021-01-22 09:10:01" Version="1.00" ProjectDependent="1" Reboot="1" />
 			<Module Name="::asfw" Type="67" Size="128" Modified="2021-01-22 09:10:02" Version="1.00" ProjectDependent="1" Reboot="1" />
 			<Module Name="::ashwd" Type="67" Size="524" Modified="2021-01-22 09:10:02" Version="1.00" ProjectDependent="1" Reboot="1" />
@@ -1406,6 +1406,8 @@
 			<Module Name="::FWRules" Type="136" Size="456" Modified="2021-01-22 09:10:00" Version="1.00" ProjectDependent="1" />
 			<Module Name="::FileIO" Type="18" Size="25328" Modified="2019-11-23 03:03:58" Version="4.72" ProjectDependent="1" />
 			<Module Name="::Role" Type="136" Size="760" Modified="2021-01-22 09:09:59" Version="1.00" ProjectDependent="1" />
+			<Module Name="::TC" Type="136" Size="1068" Modified="2021-01-22 11:11:11" Version="1.00" ProjectDependent="1" />
+			<Module Name="::TCLang" Type="136" Size="1444" Modified="2021-01-22 11:16:22" Version="1.00" ProjectDependent="1" />
 			<Module Name="::User" Type="136" Size="648" Modified="2021-01-22 09:10:00" Version="1.00" ProjectDependent="1" />
 			<Module Name="::ashwac" Type="136" Size="212" Modified="2021-01-22 09:09:59" Version="1.00" ProjectDependent="1" />
 			<Module Name="::iomap" Type="50" Size="304" Modified="2021-01-22 09:10:01" Version="1.00" ProjectDependent="1" />

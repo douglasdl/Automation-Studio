@@ -1,8 +1,4 @@
 #content_AreaNavigation_Label1 {
-  width: 80px;
-}
-
-#content_AreaNavigation_Label1 {
   height: 30px;
 }
 
@@ -12,8 +8,12 @@
 }
 
 #content_AreaNavigation_Label1 {
-  left: 20px;
+  left: 0px;
   position: absolute;
+}
+
+#content_AreaNavigation_Label1 {
+  width: 120px;
 }
 
 #content_AreaNavigation_Label1 {

@@ -249,10 +249,6 @@ div[id$="_breaseMainWrapper"]{position:absolute;pointer-events:none}.breaseInfoB
 .widgets_brease_WebViewer_style_default{width:300px;height:200px}.widgets_brease_WebViewer_style_default iframe{background-color:transparent}.widgets_brease_WebViewer_style_default div.editorImage{background-color:transparent}.widgets_brease_WebViewer_style_default iframe{border-color:#9A9A9A}.widgets_brease_WebViewer_style_default div.editorImage{border-color:#9A9A9A}.widgets_brease_WebViewer_style_default iframe{border-style:solid}.widgets_brease_WebViewer_style_default div.editorImage{border-style:solid}.widgets_brease_WebViewer_style_default iframe{border-width:2px 0px 0px 2px}.widgets_brease_WebViewer_style_default div.editorImage{border-width:2px 0px 0px 2px}.widgets_brease_WebViewer_style_default iframe{border-radius:0px}.widgets_brease_WebViewer_style_default div.editorImage{border-radius:0px}
 .widgets_brease_XYJoystick_style_default{width:250px;height:250px;border-color:#000000;border-width:0px;border-style:none;border-radius:0px;margin:0px;opacity:1}.widgets_brease_XYJoystick_style_default:not(.disabled){background-color:transparent}.widgets_brease_XYJoystick_style_default:not(.disabled) .ThumbView{background-color:#FF8800}.widgets_brease_XYJoystick_style_default:not(.disabled) .TrackView{background-color:#C8C8C8}.widgets_brease_XYJoystick_style_default.disabled{background-color:transparent}.widgets_brease_XYJoystick_style_default.disabled .ThumbView{background-color:#F1F1F1}.widgets_brease_XYJoystick_style_default.disabled .TrackView{background-color:#EAEAEA}
 #content_AreaHeader_Label1 {
-  width: 80px;
-}
-
-#content_AreaHeader_Label1 {
   height: 30px;
 }
 
@@ -262,17 +258,17 @@ div[id$="_breaseMainWrapper"]{position:absolute;pointer-events:none}.breaseInfoB
 }
 
 #content_AreaHeader_Label1 {
-  left: 640px;
+  left: 540px;
   position: absolute;
+}
+
+#content_AreaHeader_Label1 {
+  width: 300px;
 }
 
 #content_AreaHeader_Label1 {
   z-index: 0;
 }
-#content_AreaInfo_Label1 {
-  width: 80px;
-}
-
 #content_AreaInfo_Label1 {
   height: 30px;
 }
@@ -283,17 +279,17 @@ div[id$="_breaseMainWrapper"]{position:absolute;pointer-events:none}.breaseInfoB
 }
 
 #content_AreaInfo_Label1 {
-  left: 40px;
+  left: 0px;
   position: absolute;
+}
+
+#content_AreaInfo_Label1 {
+  width: 160px;
 }
 
 #content_AreaInfo_Label1 {
   z-index: 0;
 }
-#content_AreaContent_Label1 {
-  width: 80px;
-}
-
 #content_AreaContent_Label1 {
   height: 30px;
 }
@@ -304,8 +300,12 @@ div[id$="_breaseMainWrapper"]{position:absolute;pointer-events:none}.breaseInfoB
 }
 
 #content_AreaContent_Label1 {
-  left: 640px;
+  left: 580px;
   position: absolute;
+}
+
+#content_AreaContent_Label1 {
+  width: 180px;
 }
 
 #content_AreaContent_Label1 {
@@ -334,10 +334,6 @@ div[id$="_breaseMainWrapper"]{position:absolute;pointer-events:none}.breaseInfoB
   z-index: 1;
 }
 #content_AreaNavigation_Label1 {
-  width: 80px;
-}
-
-#content_AreaNavigation_Label1 {
   height: 30px;
 }
 
@@ -347,8 +343,12 @@ div[id$="_breaseMainWrapper"]{position:absolute;pointer-events:none}.breaseInfoB
 }
 
 #content_AreaNavigation_Label1 {
-  left: 20px;
+  left: 0px;
   position: absolute;
+}
+
+#content_AreaNavigation_Label1 {
+  width: 120px;
 }
 
 #content_AreaNavigation_Label1 {

@@ -5,7 +5,7 @@
     <Property ID="NativeName" Value="English" />
     <Property ID="IsDesignLanguage" Value="TRUE" />
   </Element>
-  <Element ID="pt-BR" Type="Language">
+  <Element ID="pt" Type="Language">
     <Property ID="LanguageName" Value="Portuguese" />
     <Property ID="NativeName" Value="português" />
   </Element>

@@ -3,6 +3,58 @@
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\iat_media.job._markerfile">
     <BuildReason>Target "iat_media.job._markerfile" does not exist</BuildReason>
   </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areainfo._markerfile">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\areacontents\areainfo.content" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areaheader._markerfile">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\areacontents\areaheader.content" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\transformations\eventbinding\parametertypemapping.xml">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\areacontents\areaheader.content" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areacontent._markerfile">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\page\areacontent.content" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areanavigation._markerfile">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\areacontents\areanavigation.content" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areaheader.scss.css">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areaheader._markerfile" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areainfo.scss.css">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areainfo._markerfile" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\page\areacontent.scss.css">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areacontent._markerfile" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\page_0.page._markerfile">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areaheader._markerfile" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areanavigation.scss.css">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areanavigation._markerfile" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\vis_0.json">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\page_0.page._markerfile" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\brease_core.css">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areaheader.scss.css" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\grunt.widgets._markerfile">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areaheader.scss.css" differs.
+</BuildReason>
+  </Rule>
   <Rule ID=".mappView_Build">
     <BuildReason>Rule contains a phony target. </BuildReason>
   </Rule>

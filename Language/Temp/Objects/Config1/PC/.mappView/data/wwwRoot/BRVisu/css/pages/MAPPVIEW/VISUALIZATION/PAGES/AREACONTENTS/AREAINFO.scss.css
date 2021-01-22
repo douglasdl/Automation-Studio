@@ -1,8 +1,4 @@
 #content_AreaInfo_Label1 {
-  width: 80px;
-}
-
-#content_AreaInfo_Label1 {
   height: 30px;
 }
 
@@ -12,8 +8,12 @@
 }
 
 #content_AreaInfo_Label1 {
-  left: 40px;
+  left: 0px;
   position: absolute;
+}
+
+#content_AreaInfo_Label1 {
+  width: 160px;
 }
 
 #content_AreaInfo_Label1 {

@@ -1,15 +1,15 @@
 ﻿@import "mixins.scss";
 #content_AreaInfo_Label1 {
-	@include elemAutoWidth(80);
-}
-#content_AreaInfo_Label1 {
 	@include elemAutoHeight(30);
 }
 #content_AreaInfo_Label1 {
 	@include elemTop(400);
 }
 #content_AreaInfo_Label1 {
-	@include elemLeft(40);
+	@include elemLeft(0);
+}
+#content_AreaInfo_Label1 {
+	@include elemAutoWidth(160);
 }
 #content_AreaInfo_Label1 {
 		z-index: 0;
