@@ -1,25 +1,58 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <tmx version="1.4">
-  <header creationtool="B&amp;R Automation Studio" 
-          creationtoolversion="4.2" 
-          datatype="unknown" segtype="sentence" 
-          adminlang="en-US" srclang="en" o-tmf="TMX">
-    <note>
-      Change the empty value of the following prop-element to the namespace where this text module should
-      be located within the logical structure of your texts (e.g.: MyTexts/Alarms)
-    </note>
-    <prop type="x-BR-TS:Namespace">Default-Namespace</prop>
+  <header creationtool="B&amp;R Automation Studio" creationtoolversion="4.2" datatype="unknown" segtype="sentence" adminlang="en" srclang="en" o-tmf="TMX">
+    <note>Change the namespace to define where this text module should be located within the logical structure of your texts</note>
+    <prop type="x-BR-TS:Namespace">IAT</prop>
   </header>
   <body>
-    <tu tuid="Samples.HELLO_WORLD">
+    <tu tuid="header">
+      <tuv xml:lang="ja">
+        <seg>ヘッダ</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR">
+        <seg>Cabeçalho</seg>
+      </tuv>
       <tuv xml:lang="en">
-        <seg>Hello world!</seg>
+        <seg>Header</seg>
       </tuv>
       <tuv xml:lang="de">
         <seg>Servus Welt!</seg>
       </tuv>
       <tuv xml:lang="fr">
         <seg>Bonjour tout le monde!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="info">
+      <tuv xml:lang="ja">
+        <seg>情報</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR">
+        <seg>Informação</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <seg>Info</seg>
+      </tuv>
+    </tu>
+    <tu tuid="content">
+      <tuv xml:lang="ja">
+        <seg>内容</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR">
+        <seg>Conteúdo</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <seg>Content</seg>
+      </tuv>
+    </tu>
+    <tu tuid="navigation">
+      <tuv xml:lang="ja">
+        <seg>ナビゲーション</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR">
+        <seg>Navegação</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <seg>Navigation</seg>
       </tuv>
     </tu>
   </body>

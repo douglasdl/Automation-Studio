@@ -5,7 +5,9 @@
       <Property ID="UserDefaultLanguage" Value="en" />
       <Property ID="UserFallbackLanguage" Value="en" />
       <Group ID="TargetLanguages">
-        <Property ID="TargetLanguage[1]" Value="en" />
+        <Property ID="TargetLanguage[1]" Value="ja" />
+        <Property ID="TargetLanguage[2]" Value="pt-BR" />
+        <Property ID="TargetLanguage[3]" Value="en" />
       </Group>
     </Group>
     <Group ID="TargetFiles">
