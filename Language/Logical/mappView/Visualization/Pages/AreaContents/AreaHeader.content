@@ -4,5 +4,6 @@
     <Widget xsi:type="widgets.brease.Label" id="Label1" top="20" left="0" width="1600" zIndex="0" text="$IAT/header" textAlign="center" bold="true" />
     <Widget xsi:type="widgets.brease.Label" id="Label2" top="20" left="1420" width="160" zIndex="1" text="ALPHA version" textColor="rgba(255, 0, 0, 1)" bold="true" />
     <Widget xsi:type="widgets.brease.Image" id="Image1" top="0" left="0" width="190" height="60" zIndex="2" backColor="rgba(144, 238, 144, 1)" />
+    <Widget xsi:type="widgets.brease.Label" id="Label3" top="15" left="60" zIndex="3" text="LOGO" textColor="rgba(255, 0, 0, 1)" bold="true" />
   </Widgets>
 </Content>
