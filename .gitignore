@@ -1,8 +1,9 @@
 # Ignore Compilation Folders
-Binaries
-Diagnosis
-Temp/Objects/
-Temp/Transfer/
+Language/Binaries
+Language/Diagnosis
+Language/Temp/Objects/
+Language/Temp/Transfer/
+Language/Temp/Simulation/
 LoggerData
 
 # Ignore Logs

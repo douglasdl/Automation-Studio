@@ -513,8 +513,8 @@
 							<File Name="sinon.js" Size="208950" HashValue="B53B6EE79E2568DC68166087370FCC64" ProjectDependent="1" IgnoreDifference="0" />
 						</Folder>
 						<Folder Name="release" ProjectDependent="1" IgnoreDifference="0">
-							<File Name="brease.js" Size="723908" HashValue="3FFA00202299485A24C3F29B4784BA84" ProjectDependent="1" IgnoreDifference="0" />
-							<File Name="brease_core.min.css" Size="360059" HashValue="D233CFE7CDC312E59C429DE4B7251893" ProjectDependent="1" IgnoreDifference="0" />
+							<File Name="brease.js" Size="749387" HashValue="8D509457A98ED7EECF108074D5B0D4BB" ProjectDependent="1" IgnoreDifference="0" />
+							<File Name="brease_core.min.css" Size="360226" HashValue="8994C15F6A0366D40F9720A6E37CC2AE" ProjectDependent="1" IgnoreDifference="0" />
 						</Folder>
 						<Folder Name="system" ProjectDependent="1" IgnoreDifference="0">
 							<Folder Name="brease" ProjectDependent="1" IgnoreDifference="0">
@@ -663,6 +663,46 @@
 									<File Name="DialogWindow.html" Size="450" HashValue="476D2C63D0B337AFC031E2EC71174FE6" ProjectDependent="1" IgnoreDifference="0" />
 									<File Name="DialogWindow.js" Size="9852" HashValue="3193003FC92AA4D9BC07046FA4FCE108" ProjectDependent="1" IgnoreDifference="0" />
 								</Folder>
+								<Folder Name="DropDownBox" ProjectDependent="1" IgnoreDifference="0">
+									<Folder Name="css" ProjectDependent="1" IgnoreDifference="0">
+										<File Name="DropDownBox.sass.css" Size="2021" HashValue="CD266820EB0B77C2386F5C0572AD6BB4" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="DropDownBox.scss" Size="347" HashValue="A7DB75A4D40EDC9D3BF0419A65B01DD6" ProjectDependent="1" IgnoreDifference="0" />
+									</Folder>
+									<Folder Name="designer" ProjectDependent="1" IgnoreDifference="0">
+										<File Name="ClassInfo.js" Size="3182" HashValue="9F435E4A466FBB9B569A8E22F90CF8E1" ProjectDependent="1" IgnoreDifference="0" />
+									</Folder>
+									<Folder Name="libs" ProjectDependent="1" IgnoreDifference="0">
+										<Folder Name="config" ProjectDependent="1" IgnoreDifference="0">
+											<File Name="Config.js" Size="3911" HashValue="8DCA606318E4E7462D7EE3A7BB33F8CC" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="InitState.js" Size="3050" HashValue="4DDFD1B079A557FA8D3F98E52FAA3CFE" ProjectDependent="1" IgnoreDifference="0" />
+										</Folder>
+										<Folder Name="reducer" ProjectDependent="1" IgnoreDifference="0">
+											<File Name="DropDownBoxActions.js" Size="839" HashValue="F87B960A288DC8051725A66BF0E0320F" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="DropDownBoxReducer.js" Size="828" HashValue="FC0E32233B70FC256938D671E5DDB8A6" ProjectDependent="1" IgnoreDifference="0" />
+										</Folder>
+										<Folder Name="view" ProjectDependent="1" IgnoreDifference="0">
+											<Folder Name="DropDownBoxView" ProjectDependent="1" IgnoreDifference="0">
+												<File Name="DropDownBoxView.js" Size="15409" HashValue="B397B41F0F64724A07A8F37C5CE1693E" ProjectDependent="1" IgnoreDifference="0" />
+												<File Name="DropDownBoxView.scss" Size="1301" HashValue="DEBAC6B6D06AA7898B36B7A2F49CFD09" ProjectDependent="1" IgnoreDifference="0" />
+											</Folder>
+										</Folder>
+									</Folder>
+									<Folder Name="meta" ProjectDependent="1" IgnoreDifference="0">
+										<File Name="DropDownBox.json" Size="29327" HashValue="C2439CA25D7C6CA85CD788F37648CF89" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="DropDownBox.style" Size="14256" HashValue="246F301162E9EFB948E76291CB6FB872" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="DropDownBox.widget" Size="28580" HashValue="308739DF6434A33C0FD8231043154452" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="DropDownBox.xsd" Size="5871" HashValue="519FF74A6B29E01CCB6F5FDACFC5EBC1" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="DropDownBox_Copied.markerFile" Size="0" HashValue="D41D8CD98F00B204E9800998ECF8427E" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="DropDownBox_EventsActions.xsd" Size="5983" HashValue="7C3DC03C105D064B0096B50DF0131FE2" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="DropDownBox_Styles.xsd" Size="3619" HashValue="ADEE9552E80F13351F42DEA8F3A05AAC" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="DropDownBox_base.scss" Size="2893" HashValue="DD96A66D9AF57879D6B3AFA3B824450B" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="DropDownBox_default.sass.css" Size="3619" HashValue="7C8CFC870386D7B9277C7F986D68D92B" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="DropDownBox_default.scss" Size="2981" HashValue="8222E2EFFAC91B04B265961D35394EBB" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="DropDownBox_doc.html" Size="18565" HashValue="A4706533F6B1146B848764803AD75CA3" ProjectDependent="1" IgnoreDifference="0" />
+									</Folder>
+									<File Name="DropDownBox.html" Size="75" HashValue="A70465438FAA14E60624EC5724763992" ProjectDependent="1" IgnoreDifference="0" />
+									<File Name="DropDownBox.js" Size="18966" HashValue="9622F7A950E523F8273C562DC105EBCF" ProjectDependent="1" IgnoreDifference="0" />
+								</Folder>
 								<Folder Name="KeyBoard" ProjectDependent="1" IgnoreDifference="0">
 									<Folder Name="assets" ProjectDependent="1" IgnoreDifference="0">
 										<Folder Name="doc" ProjectDependent="1" IgnoreDifference="0">
@@ -800,6 +840,65 @@
 									</Folder>
 									<File Name="Label.html" Size="80" HashValue="D3076440461E772F59C543D5A6C3FA87" ProjectDependent="1" IgnoreDifference="0" />
 									<File Name="Label.js" Size="14052" HashValue="029752FCFF7E78FF575BA2789E9BEF77" ProjectDependent="1" IgnoreDifference="0" />
+								</Folder>
+								<Folder Name="LanguageSelector" ProjectDependent="1" IgnoreDifference="0">
+									<Folder Name="assets" ProjectDependent="1" IgnoreDifference="0">
+										<Folder Name="img" ProjectDependent="1" IgnoreDifference="0">
+											<File Name="ar.png" Size="1063" HashValue="BAE1BE427353978BA86959C408ECC673" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="bg.png" Size="2857" HashValue="8AC42F47E08B84194FA68D7F272D2E32" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="ca.png" Size="233" HashValue="BBE6E241A434CF4CC9657C99AF02E0BC" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="cs.png" Size="689" HashValue="6FD8B2D7B67A1008CE5FBBBA8DA6EEBD" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="da.png" Size="239" HashValue="029CFDF7BC1376EA9031A655F432374F" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="de.png" Size="971" HashValue="E3D751CA781E76597B81B26B11B36D9C" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="en.png" Size="2703" HashValue="4D613A230E32AD6BAFB6908E0179C1EE" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="es.png" Size="1473" HashValue="4B725545F8ECDFF82BEE834AEC539E01" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="fi.png" Size="420" HashValue="DBC039CEA8F328A153624384E1F816A4" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="fr.png" Size="964" HashValue="C7086091C49538D19C056AFDCD9A82FF" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="he.png" Size="442" HashValue="26FF7E19C0B68074F14E54B3C3EB6874" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="hr.png" Size="686" HashValue="76CF0AC476E87F6EC6CDEBD06E4CF4A8" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="hu.png" Size="1060" HashValue="B3BF81469417FF824A2728BBB9F9E2E5" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="is.png" Size="286" HashValue="0BD90C03288F6744B3B2EB98B29CDC9C" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="it.png" Size="979" HashValue="A4DA89FAEB5661EBA6531F1A950910FC" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="ja.png" Size="1266" HashValue="619238924FB7D4EC8B7788AE4BB54377" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="ko.png" Size="1838" HashValue="FCB7E5D761F2E6B972800D2BB198BA0C" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="lv.png" Size="246" HashValue="2F0B6DE8B6E443E17DF81BC8EE80334C" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="nl.png" Size="1060" HashValue="BBAFD34E431BAFB9967116A907336AD0" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="no.png" Size="279" HashValue="A608F05122CDC979D0BAB57B0BA806EA" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="pl.png" Size="182" HashValue="17E7AFEFD7C4B43EC511C02FA1FE4EE0" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="pt.png" Size="1644" HashValue="2A0C4284B9699292CAC4620651495F98" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="ro.png" Size="223" HashValue="1C9500704B857E365FF547D66F5F72EE" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="ru.png" Size="2857" HashValue="14D181473F3B4596227E619CA8860989" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="sk.png" Size="3558" HashValue="988998CAA25C028F626F508A956D6527" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="sl.png" Size="3195" HashValue="F8B44CE115D021F9502DF836C18C56A7" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="sr.png" Size="777" HashValue="F4D1D451DE104534CCF9A398C4B2B9E2" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="sv.png" Size="492" HashValue="FE2082DC9D9ADBD1D304BC03CBB264FA" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="tr.png" Size="3528" HashValue="7D2A04038BE76F5D613C1EB64B72E44B" ProjectDependent="1" IgnoreDifference="0" />
+											<File Name="zh.png" Size="1458" HashValue="547797F5FD9767F9090E453A315F86D7" ProjectDependent="1" IgnoreDifference="0" />
+										</Folder>
+									</Folder>
+									<Folder Name="designer" ProjectDependent="1" IgnoreDifference="0">
+										<File Name="ClassInfo.js" Size="3225" HashValue="29CEC14489513E14BEA9EC960535CCD7" ProjectDependent="1" IgnoreDifference="0" />
+									</Folder>
+									<Folder Name="libs" ProjectDependent="1" IgnoreDifference="0">
+										<Folder Name="config" ProjectDependent="1" IgnoreDifference="0">
+											<File Name="Config.js" Size="1993" HashValue="CA84C716BB40928649BB18EEB7A67BC8" ProjectDependent="1" IgnoreDifference="0" />
+										</Folder>
+									</Folder>
+									<Folder Name="meta" ProjectDependent="1" IgnoreDifference="0">
+										<File Name="LanguageSelector.json" Size="28771" HashValue="66222260069B8D7A8562938D7C3A320E" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="LanguageSelector.style" Size="707" HashValue="41AB7C034893FA0586B262F8E8D38315" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="LanguageSelector.widget" Size="28214" HashValue="3C906C62B2CE0004F9CABC24D7F1850F" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="LanguageSelector.xsd" Size="5667" HashValue="DF9807B60F1A4C5DD41AC13710BABD1E" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="LanguageSelector_Copied.markerFile" Size="0" HashValue="D41D8CD98F00B204E9800998ECF8427E" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="LanguageSelector_EventsActions.xsd" Size="6484" HashValue="13264B9EA38E08255C115CCAB52AD00A" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="LanguageSelector_Styles.xsd" Size="3624" HashValue="EBF32DF71B21FA879DB9EB81A4E9A6E9" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="LanguageSelector_base.scss" Size="2908" HashValue="C354B2B413962D814625EC9E2A809EBB" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="LanguageSelector_default.sass.css" Size="3824" HashValue="88E211177A84C920AF7766243E4BA33A" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="LanguageSelector_default.scss" Size="3006" HashValue="85D755AABD1C454EE1C72A29E1AA51B8" ProjectDependent="1" IgnoreDifference="0" />
+										<File Name="LanguageSelector_doc.html" Size="18358" HashValue="BBDAAE57BE1A14322B5F751A510825B3" ProjectDependent="1" IgnoreDifference="0" />
+									</Folder>
+									<File Name="LanguageSelector.html" Size="83" HashValue="3C9BC4BFF2A6857FD7414869B9FF7EAD" ProjectDependent="1" IgnoreDifference="0" />
+									<File Name="LanguageSelector.js" Size="2801" HashValue="F5D9990CE853CDE5ED1ACEEEB8502A55" ProjectDependent="1" IgnoreDifference="0" />
 								</Folder>
 								<Folder Name="MessageBox" ProjectDependent="1" IgnoreDifference="0">
 									<Folder Name="assets" ProjectDependent="1" IgnoreDifference="0">
@@ -1149,7 +1248,7 @@
 					</Folder>
 					<Folder Name="contents" ProjectDependent="1" IgnoreDifference="0">
 						<Folder Name="mappView" ProjectDependent="1" IgnoreDifference="0">
-							<File Name="content_AreaContent.html" Size="314" HashValue="4295070D1C21F490E3BF9E21F34DD22C" ProjectDependent="1" IgnoreDifference="0" />
+							<File Name="content_AreaContent.html" Size="631" HashValue="F608AB13CD1B57D17E8AF53F6B4C30B2" ProjectDependent="1" IgnoreDifference="0" />
 							<File Name="content_AreaHeader.html" Size="309" HashValue="CB7E5318D2D293531B7E1BA09A13F2F7" ProjectDependent="1" IgnoreDifference="0" />
 							<File Name="content_AreaInfo.html" Size="301" HashValue="2A0A46E26ACB031576A8F7BCC424E931" ProjectDependent="1" IgnoreDifference="0" />
 							<File Name="content_AreaNavigation.html" Size="325" HashValue="C657A7214BDAB181548DD9CC943BB136" ProjectDependent="1" IgnoreDifference="0" />

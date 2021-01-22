@@ -1,296 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BuildReasons>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\brease\iat\build\jsbuild._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\brease\iatc\brvisu\brease._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\types\area._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\transformations_copy._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\server\serverdiagnostics._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\widgets\brease\common\css\boxlayout.sass.css._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\iat_media.job._markerfile">
     <BuildReason>Target "iat_media.job._markerfile" does not exist</BuildReason>
   </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\widgets\brease\label\meta\label_copied.markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\widgets\brease\dropdownbox\meta\dropdownbox_copied.markerfile">
+    <BuildReason>Target "dropdownbox_copied.markerfile" does not exist</BuildReason>
   </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\widgets\brease\messagebox\meta\messagebox_copied.markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\widgets\brease\languageselector\meta\languageselector_copied.markerfile">
+    <BuildReason>Target "languageselector_copied.markerfile" does not exist</BuildReason>
   </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\widgets\brease\window\meta\window_copied.markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\widgets\brease\dialogwindow\meta\dialogwindow_copied.markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\widgets\brease\numpad\meta\numpad_copied.markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\widgets\brease\keyboard\meta\keyboard_copied.markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\widgets\brease\datetimepicker\meta\datetimepicker_copied.markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\index.html">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\favicon.ico">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\duplicatethemesfinder._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\duplicatestylessetsfinder._markerfile">
-    <BuildReason>ExternalCommand line differs.
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\transformations\eventbinding\parametertypemapping.xml">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\page\areacontent.content" differs.
 </BuildReason>
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\duplicatestylesfinder._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\duplicatebindingslistsetsfinder._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\server\vis_0.vis">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\server\config.mappviewcfg">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\area_default.scss.css_delete">
-    <BuildReason>Target "area_default.scss.css_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\body_default.scss.css_delete">
-    <BuildReason>Target "body_default.scss.css_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\dialog_default.scss.css_delete">
-    <BuildReason>Target "dialog_default.scss.css_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\messagebox_default.scss.css_delete">
-    <BuildReason>Target "messagebox_default.scss.css_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\modaldimmer_default.scss.css_delete">
-    <BuildReason>Target "modaldimmer_default.scss.css_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\page_default.scss.css_delete">
-    <BuildReason>Target "page_default.scss.css_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\scrollbar_default.scss.css_delete">
-    <BuildReason>Target "scrollbar_default.scss.css_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\startupprogressbar_default.scss.css_delete">
-    <BuildReason>Target "startupprogressbar_default.scss.css_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\tooltip_default.scss.css_delete">
-    <BuildReason>Target "tooltip_default.scss.css_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\iat_media.job_delete">
-    <BuildReason>Target "iat_media.job_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\vis_0.json_delete">
-    <BuildReason>Target "vis_0.json_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areaheader.html_delete">
-    <BuildReason>Target "content_areaheader.html_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areaheader.scss_delete">
-    <BuildReason>Target "areaheader.scss_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areaheader._markerfile_delete">
-    <BuildReason>Target "content_areaheader._markerfile_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areaheader.scss.css_delete">
-    <BuildReason>Target "areaheader.scss.css_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areainfo.html_delete">
-    <BuildReason>Target "content_areainfo.html_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areainfo.scss_delete">
-    <BuildReason>Target "areainfo.scss_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areainfo._markerfile_delete">
-    <BuildReason>Target "content_areainfo._markerfile_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areainfo.scss.css_delete">
-    <BuildReason>Target "areainfo.scss.css_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areacontent.html_delete">
-    <BuildReason>Target "content_areacontent.html_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\page\areacontent.scss_delete">
-    <BuildReason>Target "areacontent.scss_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areacontent._markerfile_delete">
-    <BuildReason>Target "content_areacontent._markerfile_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\page\areacontent.scss.css_delete">
-    <BuildReason>Target "areacontent.scss.css_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areanavigation.html_delete">
-    <BuildReason>Target "content_areanavigation.html_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areanavigation.scss_delete">
-    <BuildReason>Target "areanavigation.scss_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areanavigation._markerfile_delete">
-    <BuildReason>Target "content_areanavigation._markerfile_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areanavigation.scss.css_delete">
-    <BuildReason>Target "areanavigation.scss.css_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\server\__systemvariables.sessionvar_delete">
-    <BuildReason>Target "__systemvariables.sessionvar_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\server\vis_0.vis_delete">
-    <BuildReason>Target "vis_0.vis_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="c:\users\dleal.matsui-jpo\documents\git\gitteian\language\temp\objects\config1\pc\.mappview\data\server\config.mappviewcfg_delete">
-    <BuildReason>Target "config.mappviewcfg_delete" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\.mappview_prerequisites._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\area_default.scss.css">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\body_default.scss.css">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\dialog_default.scss.css">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\messagebox_default.scss.css">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\modaldimmer_default.scss.css">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\page_default.scss.css">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\scrollbar_default.scss.css">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\startupprogressbar_default.scss.css">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\types\tooltip_default.scss.css">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\transformations\eventbinding\parametertypemapping.xml">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\vis_0.json._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\layout_0.layout._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areaheader._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areainfo._markerfile">
-    <BuildReason>ExternalCommand line differs.
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\br.iat.widgetsfile" differs.
 </BuildReason>
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areacontent._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areanavigation._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areaheader.scss.css">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\validatebindings._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areainfo.scss.css">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\page\areacontent.scss.css">
-    <BuildReason>ExternalCommand line differs.
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\page\areacontent.content" differs.
 </BuildReason>
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\page_0.page._markerfile">
-    <BuildReason>ExternalCommand line differs.
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areacontent._markerfile" differs.
 </BuildReason>
   </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\areacontents\areanavigation.scss.css">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\validateeventbindings._markerfile">
-    <BuildReason>ExternalCommand line differs.
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\page\areacontent.scss.css">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\contents\mappview\content_areacontent._markerfile" differs.
 </BuildReason>
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\vis_0.json">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\duplicatebindingsfinder._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\server\__systemvariables.sessionvar">
-    <BuildReason>ExternalCommand line differs.
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\page_0.page._markerfile" differs.
 </BuildReason>
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\brease_core.css">
-    <BuildReason>ExternalCommand line differs.
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\brvisu\css\pages\mappview\visualization\pages\page\areacontent.scss.css" differs.
 </BuildReason>
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\data\wwwroot\grunt.widgets._markerfile">
-    <BuildReason>ExternalCommand line differs.
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\pc\.mappview\br.iat.widgetsfile" differs.
 </BuildReason>
   </Rule>
   <Rule ID=".mappView_Build">

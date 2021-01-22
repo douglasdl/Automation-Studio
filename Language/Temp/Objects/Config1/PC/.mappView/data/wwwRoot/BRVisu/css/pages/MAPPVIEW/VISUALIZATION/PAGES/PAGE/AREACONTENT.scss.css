@@ -19,3 +19,25 @@
 #content_AreaContent_Label1 {
   z-index: 0;
 }
+
+#content_AreaContent_LanguageSelector1.DropDownBoxView {
+  width: 100px;
+}
+
+#content_AreaContent_LanguageSelector1.DropDownBoxView {
+  height: 30px;
+}
+
+#content_AreaContent_LanguageSelector1 {
+  top: 459px;
+  position: absolute;
+}
+
+#content_AreaContent_LanguageSelector1 {
+  left: 620px;
+  position: absolute;
+}
+
+#content_AreaContent_LanguageSelector1 {
+  z-index: 1;
+}

@@ -14,3 +14,22 @@
 #content_AreaContent_Label1 {
 		z-index: 0;
 }
+#content_AreaContent_LanguageSelector1 {
+	&.DropDownBoxView{
+	@include elemWidth(100);
+	}
+}
+#content_AreaContent_LanguageSelector1 {
+	&.DropDownBoxView{
+	@include elemHeight(30);
+	}
+}
+#content_AreaContent_LanguageSelector1 {
+	@include elemTop(459);
+}
+#content_AreaContent_LanguageSelector1 {
+	@include elemLeft(620);
+}
+#content_AreaContent_LanguageSelector1 {
+		z-index: 1;
+}

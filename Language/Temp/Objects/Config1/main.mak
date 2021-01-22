@@ -1,6 +1,6 @@
 SHELL := cmd.exe
 CYGWIN=nontsec
-export AS_BUILD_MODE := BuildAndCreateCompactFlash
+export AS_BUILD_MODE := BuildAndTransfer
 export AS_VERSION := 4.7.5.60 SP
 export AS_COMPANY_NAME := Toshiba
 export AS_USER_NAME := dleal
@@ -33,5 +33,5 @@ export WIN32_AS_INSTALL_PATH := "C:\BrAutomation\AS47"
 
 ProjectMakeFile:
 
-	@'$(AS_BIN_PATH)/BR.AS.AnalyseProject.exe' '$(AS_PROJECT_PATH)/Language.apj' -t '$(AS_TEMP_PATH)' -c '$(AS_CONFIGURATION)' -o '$(AS_BINARIES_PATH)'   -sfas -buildMode 'BuildAndCreateCompactFlash'   
+	@'$(AS_BIN_PATH)/BR.AS.AnalyseProject.exe' '$(AS_PROJECT_PATH)/Language.apj' -t '$(AS_TEMP_PATH)' -c '$(AS_CONFIGURATION)' -o '$(AS_BINARIES_PATH)'   -sfas -buildMode 'BuildAndTransfer'   
 
